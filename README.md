@@ -1,3 +1,3 @@
 # ML-coursera
-maching-learning course's programming exercise on coursera. write by myself.
-
+my implementation
+machine-learning-learning course's programming exercise on coursera..
